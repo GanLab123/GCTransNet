@@ -1,7 +1,7 @@
 
 ---
 
-# GCTransNet: Mitochondria Automated Segmentation Method
+# GctransNet: 3D mitochondrial instance segmentation based on Global Context Vision Transformers.
 
 GCTransNet is an automated mitochondria segmentation method based on 3D Global Context Vision Transformer (GC-ViT). By combining global and local self-attention modules, it effectively addresses the challenge of segmenting small mitochondrial targets in volume electron microscopy (EM) images. The method utilizes grayscale migration techniques for image preprocessing to reduce grayscale discrepancies between different slices, while precisely modeling both long-range and short-range spatial interactions. 
 
