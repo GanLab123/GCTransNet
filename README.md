@@ -40,6 +40,34 @@ Automated electron microscopy image segmentation techniques can enhance the effi
    pip install -r requirements.txt
    ```
 
+4. train
+   
+```bash
+python main.py
+--data_dir
+dataset/
+--json_list
+dataset.json
+--logdir
+GCTransNet
+--out_channels
+2
+--roi_x
+96
+--roi_y
+96
+--roi_z
+96
+--a_min
+0.0
+--a_max
+255.0
+--max_epochs
+2000
+--batch_size
+1
+--save_checkpoint
+```
 
 ## Contributing
 
