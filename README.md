@@ -78,5 +78,3 @@ Contributions are welcome! Please submit your pull requests to improve GCTransNe
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-This is a basic README template, and you may need to adjust or extend it based on your project specifics and needs.
