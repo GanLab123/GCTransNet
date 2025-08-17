@@ -1,0 +1,14 @@
+{
+  "training": [
+    {
+      "image": "./train/raw.tif",
+      "label": "./train/label.tif"
+    }
+  ],
+  "validation": [
+    {
+      "image": "./test/raw.tif",
+      "label": "./test/label.tif"
+    }
+  ]
+}
